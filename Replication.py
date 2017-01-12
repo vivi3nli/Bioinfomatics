@@ -100,5 +100,4 @@ def PatternMatching(Pattern, Genome):
             positions.append(x)
     return positions
 
-test git
 
